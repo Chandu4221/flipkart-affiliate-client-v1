@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Chandu4221/flipkart-affiliate-client-v1.svg?branch=master)](https://travis-ci.org/Chandu4221/flipkart-affiliate-client-v1)
+
 # Flipkart Affiliate Client for API Version 1.0
 
 un-official Node.js client for [Flipkart Affiliates API](https://affiliate.flipkart.com/api-docs/)
