@@ -1,0 +1,42 @@
+{
+  "name": "flipkart-affiliate-client-v1",
+  "version": "1.0.0",
+  "description": "Node.js Client to access Flipkart Affiliate API Version 1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "tsc -w"
+  },
+  "keywords": [
+    "flipkart affiliate api v 1.0",
+    "flipkart affiliate api",
+    "flipkart affiliate api client",
+    "affiliate api",
+    "affiliate client",
+    "flipkart affiliate client",
+    "flipkart client",
+    "affiliate",
+    "client",
+    "nodejs",
+    "flipkart api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandu4221/flipkart-affiliate-client-v1.git"
+  },
+  "author": "Chandu4221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chandu4221/flipkart-affiliate-client-v1/issues"
+  },
+  "homepage": "https://github.com/Chandu4221/flipkart-affiliate-client-v1#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "@types/request": "^2.47.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "typescript": "^2.9.2"
+  }
+}
