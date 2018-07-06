@@ -1,6 +1,6 @@
 {
   "name": "flipkart-affiliate-client-v1",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Node.js Client to access Flipkart Affiliate API Version 1.0",
   "main": "index.js",
   "scripts": {
